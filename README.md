@@ -3,6 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/-Express.js-green" />
+    <img src="https://img.shields.io/badge/-MONGODB-pink" />
     <img src="https://img.shields.io/badge/-NOSQL-blue" >
     <img src="https://img.shields.io/badge/-ScreenCastify-lightgrey" />
 </p>
