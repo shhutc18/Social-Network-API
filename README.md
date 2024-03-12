@@ -46,7 +46,7 @@ https://github.com/shhutc18/Social-Network-API
 
 ## Walkthrough
 
-Please watch this video for a brief tutorial on how to use this application:
+Please watch this video for a brief tutorial on how to use this application: https://drive.google.com/file/d/17lzLSTaP7L-QJGSnPEgEMAdlJu9UjKj7/view
 
 ## Questions
 
